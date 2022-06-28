@@ -10,6 +10,8 @@ congressional election.
 4. Calculate the percentage of votes each candidate won.
 5. Determine the winner of the election based on popular vote.
 
+
+
 ## Resources
 
 - Data Source: election results.csv
@@ -45,7 +47,9 @@ Election Audit requested additional data to complete the audit, such as
 2. Calculate  percentage of votes from each county out of the total count
 3. Find out the county name which has highest turnout
 
-## Challenge Summary
+## Challenge Results
+
+Additional for loop helped to find out the following result.
 
 The following results I got after the analysis
 Total Votes in the election - 369,711
@@ -57,3 +61,12 @@ Denver: 82.8%  (306055)
 Arapahoe: 6.7%  (24801)
 
 Largest Country Turnout - Denver
+
+## Challenge Summary
+
+I could find out voter turnout of each county, percentage of votes from each county out of the total count, ounty name which has highest turnout by adding another for loop but we can have more detailed results if we use this script with additional for loop and Id statements to analyse the larger data set too.
+
+Election commission can use this script to get election results. We can make some changes in the script and use this script to analyze larger data, such as,
+1. If we are considering statewide or country wide election, we can add a for loop for city_names, another for loop for state_name and widen our analysis to find out election results.
+
+2. We can find out how many people registered for the voting and how many people actually voted.
