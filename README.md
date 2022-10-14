@@ -1,6 +1,7 @@
 # election_analysis
 
 ## Project Overview
+The purpose of this project is to conduct an election audit for the Colorado Board of Elections. The outcome of the congressional election audit will determine, voter turnout of each county, percentage of votes from each county out of the total count, county name which has highest turnout.
 
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local
 congressional election.
