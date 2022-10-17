@@ -54,7 +54,7 @@ The winner of the election was:
 
 - Winning Percentage: 73.8%
 
-## Challenge Overview
+## Overview
 
 Election Audit requested additional data to complete the audit, such as 
 
@@ -64,7 +64,7 @@ Election Audit requested additional data to complete the audit, such as
 
 3. Find out the county name which has highest turnout
 
-## Challenge Results
+## Results
 
 Additional for loop helped to find out the following result.
 
