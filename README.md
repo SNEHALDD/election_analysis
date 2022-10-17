@@ -82,6 +82,9 @@ The following results I got after the analysis
 
 - Largest Country Turnout - Denver
 
+
+<img width="397" alt="Module_3_Result" src="https://user-images.githubusercontent.com/106944351/196069804-be9f47a8-9c53-4299-ae8a-9106375b86e0.png">
+
 ## Summary
 
 I could find out voter turnout of each county, percentage of votes from each county out of the total count, ounty name which has highest turnout by adding another for loop but we can have more detailed results if we use this script with additional for loop and Id statements to analyse the larger data set too.
