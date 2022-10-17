@@ -28,6 +28,7 @@ Software: Python 3.6.1, Visual Studio Code, 1.38.1
 The analysis of the election show that:
 There were "369,711" votes cast in the election.
 The candidates were:
+
 Candidate 1 : Charles Casper Stockham
 
 Candidate 2 : Diana DeGette
@@ -36,6 +37,7 @@ Candidate 3 : Raymon Anthony Doane
 
 
 The candidate results were:
+
 Candidate 1 received "23.0%" of the vote and "85,213" number of votes.
 
 Candidate 2 received "73.8%" of the vote and "272,892" number of votes.
@@ -43,6 +45,7 @@ Candidate 2 received "73.8%" of the vote and "272,892" number of votes.
 Candidate 3 received "3.1%" of the vote and "11,606" number of votes.
 
 The winner of the election was:
+
 Candidate 2, who received "73.8%" of the vote and "73.8" number of votes.
 
 Winner: Diana DeGette
@@ -54,6 +57,7 @@ Winning Percentage: 73.8%
 ## Challenge Overview
 
 Election Audit requested additional data to complete the audit, such as 
+
 1. Calculate voter turnout of each county.
 
 2. Calculate  percentage of votes from each county out of the total count
