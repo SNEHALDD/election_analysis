@@ -29,30 +29,30 @@ The analysis of the election show that:
 There were "369,711" votes cast in the election.
 The candidates were:
 
-Candidate 1 : Charles Casper Stockham
+- Candidate 1 : Charles Casper Stockham
 
-Candidate 2 : Diana DeGette
+- Candidate 2 : Diana DeGette
 
-Candidate 3 : Raymon Anthony Doane
+- Candidate 3 : Raymon Anthony Doane
 
 
 The candidate results were:
 
-Candidate 1 received "23.0%" of the vote and "85,213" number of votes.
+- Candidate 1 received "23.0%" of the vote and "85,213" number of votes.
 
-Candidate 2 received "73.8%" of the vote and "272,892" number of votes.
+- Candidate 2 received "73.8%" of the vote and "272,892" number of votes.
 
-Candidate 3 received "3.1%" of the vote and "11,606" number of votes.
+- Candidate 3 received "3.1%" of the vote and "11,606" number of votes.
 
 The winner of the election was:
 
-Candidate 2, who received "73.8%" of the vote and "73.8" number of votes.
+- Candidate 2, who received "73.8%" of the vote and "73.8" number of votes.
 
-Winner: Diana DeGette
+- Winner: Diana DeGette
 
-Winning Vote Count: 73.8
+- Winning Vote Count: 73.8
 
-Winning Percentage: 73.8%
+- Winning Percentage: 73.8%
 
 ## Challenge Overview
 
@@ -70,19 +70,19 @@ Additional for loop helped to find out the following result.
 
 The following results I got after the analysis
 
-Total Votes in the election - 369,711
+- Total Votes in the election - 369,711
 
-County name, % of total votes, total votes
+- County name, % of total votes, total votes
 
-Jefferson: 10.5%  (38855)
+- Jefferson: 10.5%  (38855)
 
-Denver: 82.8%  (306055)
+- Denver: 82.8%  (306055)
 
-Arapahoe: 6.7%  (24801)
+- Arapahoe: 6.7%  (24801)
 
-Largest Country Turnout - Denver
+- Largest Country Turnout - Denver
 
-## Challenge Summary
+## Summary
 
 I could find out voter turnout of each county, percentage of votes from each county out of the total count, ounty name which has highest turnout by adding another for loop but we can have more detailed results if we use this script with additional for loop and Id statements to analyse the larger data set too.
 
